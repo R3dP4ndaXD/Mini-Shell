@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "parser.h": "c",
+        "stdlib.h": "c",
+        "utils.h": "c"
+    }
+}
